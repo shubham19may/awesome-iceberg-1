@@ -136,6 +136,7 @@ Compaction, migration, interop, branching, and local labs — the ops layer arou
 | [Delta UniForm](https://docs.databricks.com/aws/en/delta/uniform) | Write Delta, expose Iceberg metadata for non-Databricks readers |
 | [Databricks Iceberg external access](https://docs.databricks.com/aws/en/external-access/iceberg) | Read Unity-managed Iceberg from external engines via REST |
 | [Netflix/iceberg (historical)](https://github.com/Netflix/iceberg) | Pre-ASF origin repo — useful for archaeology, not for new work |
+| [OLake](https://github.com/datazip-inc/olake) | Go-based CDC and batch replication from Postgres, MySQL, MongoDB, Oracle, SQL Server and Kafka into Iceberg tables, plus compaction and snapshot expiry |
 
 ## Cloud services
 
